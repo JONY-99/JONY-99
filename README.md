@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JONY-99
 - 👀 I’m interested in software engineering and team working
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python, c++, django, sql and js
 
 
 <!---
