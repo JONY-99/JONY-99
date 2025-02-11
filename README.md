@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-AERLUX.uz-red?logo=instagram)](https://www.instagram.com/aerlux.uz)  
 [![GitHub](https://img.shields.io/badge/GitHub-JONY--99-black?logo=github)](https://github.com/JONY-99)  
 <br>  
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" height="100">  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" height="100">  
  
    **Name:** JONY
 
