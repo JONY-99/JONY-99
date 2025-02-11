@@ -11,11 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-AERLUX.uz-red?logo=instagram)](https://www.instagram.com/aerlux.uz)  
 [![GitHub](https://img.shields.io/badge/GitHub-JONY--99-black?logo=github)](https://github.com/JONY-99)  
  
- 
- 
-   **Name:** JONY
-
-📧 **Email:** s.karimjonov99@gmail.com  
+**Name:** JONY <br>📧 **Email:** s.karimjonov99@gmail.com  
 
 
 <!---
