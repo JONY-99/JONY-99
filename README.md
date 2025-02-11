@@ -1,6 +1,7 @@
 # 👋 Hi, I'm JONY  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="130" height="100">  
 💻 **Software Engineer | Backend Developer**  
+
 🔹 Passionate about **software engineering, cybersecurity** and **teamwork**  
 📚 Currently learning **Python, C++, Django, SQL, JavaScript**  
 🚀 Working on **ALX AERLUX developments**  
