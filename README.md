@@ -11,8 +11,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-AERLUX.uz-red?logo=instagram)](https://www.instagram.com/aerlux.uz)  
 [![GitHub](https://img.shields.io/badge/GitHub-JONY--99-black?logo=github)](https://github.com/JONY-99)  
 <a href="https://www.facebook.com/https://www.facebook.com/sardor.karimjonov.56"><img src="https://img.shields.io/badge/Facebook-JONY-blue?logo=facebook"></a> 
- 
-**Name:** JONY <br>📧 **Email:** s.karimjonov99@gmail.com  
 
 
 <!---
