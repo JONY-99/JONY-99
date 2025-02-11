@@ -8,9 +8,9 @@
 🚀 Working on **SRT AERLUX developments**  
 
 ### 🔗 Connect with me:  
-[![Telegram Channel](https://img.shields.io/badge/Telegram-AERLUX-blue?logo=telegram)](https://t.me/AERLUXuz)  
+[![![Telegram Channel](https://img.shields.io/badge/Telegram-AERLUX-blue?logo=telegram)](https://t.me/AERLUXuz)  
 [![Instagram](https://img.shields.io/badge/Instagram-AERLUX.uz-red?logo=instagram)](https://www.instagram.com/aerlux.uz)  
-[![GitHub](https://img.shields.io/badge/GitHub-JONY--99-black?logo=github)](https://github.com/JONY-99)  
+[![GitHub](https://img.shields.io/badge/GitHub-JONY--99-black?logo=github)](https://github.com/JONY-99) ![Hacker](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)]  
 
    **Name:** JONY
 
