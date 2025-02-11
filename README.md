@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-JONY--99-black?logo=github)](https://github.com/JONY-99)  
 
    **Name:** JONY
+
 📧 **Email:** s.karimjonov99@gmail.com  
 
 
