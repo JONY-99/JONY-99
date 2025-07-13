@@ -4,12 +4,14 @@
 
 🔹 Passionate about **software engineering, cybersecurity** and **teamwork**  
 📚 Currently learning **Python, C++, Django, SQL restApi**  
-🚀 Working on **ALX AERLUX developments**  
+ 
 
 ### 🔗 Connect with me:  
-[![Telegram](https://img.shields.io/badge/Telegram-AERLUX-blue?logo=telegram)](https://t.me/AERLUXuz)  
-[![Instagram](https://img.shields.io/badge/Instagram-AERLUX.uz-red?logo=instagram)](https://www.instagram.com/aerlux.uz)  
-<a href="https://www.facebook.com/https://www.facebook.com/sardor.karimjonov.56"><img src="https://img.shields.io/badge/Facebook-JONY-blue?logo=facebook"></a> 
+<a href="https://www.facebook.com/https://www.facebook.com/sardor.karimjonov.56"><img src="https://img.shields.io/badge/Facebook-JONY-blue?logo=facebook"></a>
+[![Telegram](https://img.shields.io/badge/Telegram-@sardor__karimjonov-blue?logo=telegram)](https://t.me/sardor_karimjonov)
+[![Instagram](https://img.shields.io/badge/Instagram-@sardor__karimjonov__-E4405F?logo=instagram)](https://instagram.com/sardor_karimjonov_)
+[![Gmail](https://img.shields.io/badge/Gmail-s.karimjonov99@gmail.com-red?logo=gmail)](mailto:s.karimjonov99@gmail.com)
+ 
 
 
 <!---
